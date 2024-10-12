@@ -1,0 +1,8 @@
+V3 7
+FL C:/MyNewProjects/Verilog_Challenge/VerilogChallenge/day1_tb.v 2024/10/12.23:35:09 I.24
+MO work/day1_tb_v \
+      FL C:/MyNewProjects/Verilog_Challenge/VerilogChallenge/day1_tb.v MI day1
+FL $XILINX/verilog/src/glbl.v 2005/11/16.16:04:44 I.24
+MO work/glbl            FL $XILINX/verilog/src/glbl.v
+FL C:/MyNewProjects/Verilog_Challenge/VerilogChallenge/day1.v 2024/10/12.23:32:57 I.24
+MO work/day1            FL C:/MyNewProjects/Verilog_Challenge/VerilogChallenge/day1.v

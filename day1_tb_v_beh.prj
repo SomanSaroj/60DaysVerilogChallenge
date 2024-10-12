@@ -1,0 +1,3 @@
+verilog work "day1.v"
+verilog work "day1_tb.v"
+verilog work "C:/Xilinx/verilog/src/glbl.v"
